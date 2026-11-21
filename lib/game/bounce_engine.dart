@@ -1,7 +1,7 @@
 import 'dart:math' as math;
 
-import '../core/arcade.dart';
-import '../core/level_plan.dart';
+import 'package:studio_core/core/arcade.dart';
+import 'package:studio_core/core/level_plan.dart';
 
 /// Obstacle kinds.
 const int kSpike = 0, kPit = 1, kBar = 2, kBox = 3, kRing = 4;
